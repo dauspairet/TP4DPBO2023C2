@@ -25,7 +25,9 @@ Saya Muhamad Firdaus [2101995] mengerjakan soal TP 4 dalam mata kuliah DPBO untu
     - Menampilkan tampilan data terbaru.
 
 ## Desain
-![desain_database](https://github.com/dauspairet/TP4DPBO2023C2/blob/main/Screenshot/db.jpg)
+<div align="center">
+    <img src="https://github.com/dauspairet/TP4DPBO2023C2/blob/main/Screenshot/db.jpg">
+</div>
 
 ## Dokumentasi
 ### Halaman Member
